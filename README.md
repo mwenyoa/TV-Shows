@@ -16,7 +16,7 @@
  [View Live Presentation](https://drive.google.com/file/d/1MWXkNu3V8RE__Xzb8qz2gKPpg38KMZjA/view?usp=sharing)
 ## Live Demo
 
-[View Live Demo](https://yorsyboy.github.io/Javascript-capstone/)
+[View Live Demo](https://anthony-tvshows.netlify.app/)
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
